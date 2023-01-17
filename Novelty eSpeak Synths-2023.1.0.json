@@ -1,0 +1,29 @@
+{
+	"addonId": "Novelty eSpeak Synths",
+	"displayName": "Novelty eSpeak Synthesizers",
+	"URL": "",
+	"description": "eSpeak, but in Piglattin and randomization of words.",
+	"sha256": "a1c80226b319277560d876cbbeba94b8e78d232d703e937b361a097670d005ce",
+	"homepage": "https://www.github.com/TheQuinbox/Novelty-eSpeak-Synths",
+	"addonVersionName": "2023.1",
+	"addonVersionNumber": {
+		"major": 2023,
+		"minor": 1,
+		"patch": 0
+	},
+	"minNVDAVersion": {
+		"major": 2019,
+		"minor": 3,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2023,
+		"minor": 1,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "",
+	"sourceURL": "https://www.github.com/TheQuinbox/Novelty-eSpeak-Synths",
+	"license": "GPL 2",
+	"licenseURL": null
+}
